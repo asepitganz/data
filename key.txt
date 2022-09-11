@@ -1,4 +1,5 @@
 {
 "asepitgans": "LTQVM-NRQSC-LVJCL-SVQTD",
-"sranzy": "HCYUY-ADXUB-MPCVJ-DGNQE"
+"sranzy": "HCYUY-ADXUB-MPCVJ-DGNQE",
+"logan": "LHEZL-RPKJG-IPPOR-YWXGV"
 }
