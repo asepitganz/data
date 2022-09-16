@@ -1,11 +1,11 @@
 {
 "asepitgans": "LTQVM-NRQSC-LVJCL-SVQTD",
-"sranzy": "HCYUY-ADXUB-MPCVJ-DGNQE",
+"sranzy": "tidakada",
 "logan": "LHEZL-RPKJG-IPPOR-YWXGV",
 "axv": "GSNEP-NTRCE-CTKYK-OIAGD",
 "ryanar": "GTSCS-MEXZL-YXMLX-NLUCT",
 "lucky": "MORHE-UUQDM-OOFJR-IBRJZ",
 "mbahsamsudin": "MTIRZ-YXKRT-ZEYGN-UWJMK",
 "alfi": "LISBX-TPVSB-WXKEV-XOMIB",
-"Sranzy": "MORHE-UUQDM-OOFJR-IBRJZ"
+"Sranzy": "tidakada"
 }
