@@ -1,5 +1,5 @@
 {
-"asepitgans": "LTQVM-NRQSC-LVJCL-SVQTD",
+"asepitgans": "LTQVM-NRQSC-LVJCL-SVQTD"
 "sranzy": "tidakada",
 "logan": "LHEZL-RPKJG-IPPOR-YWXGV",
 "breaksek": "LIMPL-XDZGC-NNVDR-NXGXK",
