@@ -1,6 +1,6 @@
 {
 "admin": "JOJQR-GKFVW-VLYJT-UNITI",
-"sranzy": "tidakada",
+"Adam": "JVFEN-WKCFP-XLLXV-GAKUS",
 "logan": "LHEZL-RPKJG-IPPOR-YWXGV",
 "breaksek": "LIMPL-XDZGC-NNVDR-NXGXK",
 "axv": "GSNEP-NTRCE-CTKYK-OIAGD",
