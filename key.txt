@@ -19,5 +19,5 @@
 "Sabaninexs": "GSNEP-NTRCE-CTKYK-OIAGD",
 "indra": "JOJQR-GKFVW-VLYJT-UNITI",
 "luzia": "JVFEN-WKCFP-XLLXV-GAKUS",
-"bombom": "bombom"
+"bombom": "ASE-SIPAL-ING-GANSKUIT"
 }
